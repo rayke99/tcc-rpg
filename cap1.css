@@ -1,0 +1,89 @@
+body{
+  background-image: url(https://img.freepik.com/fotos-gratis/personagem-assustador-de-vista-lateral-posando_23-2150701074.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699488000&semt=ais);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #3b3b3b;
+  text-align: center;
+  font-family: cursive;
+}
+h1{
+  color: white;
+  text-align: center;
+  margin: 15px;
+  text-shadow: 5px 5px 5px #9e0000;
+  font-size: 40px;
+  font-family: cursive;
+}
+.nome{
+  color: black;
+  text-align: center;
+  margin: 15px;
+  text-shadow: 5px 5px 5px #9e0000;
+  font-size: 20px;
+  font-family: cursive;
+}
+h3{
+  text-shadow: 5px 5px 5px #9e0000;
+  color: white;
+  font-size: 25px;
+  margin: 15px;
+  font-family: cursive;
+}
+.play{
+margin: 2%;
+padding: 1%;
+border-radius: 12px;
+transition-duration: 0.4s;
+background-color: black;
+color: white;
+box-shadow: 5px 5px 5px #9e0000;
+}
+.play1{
+margin: 2%;
+padding: 1%;
+border-radius: 12px;
+transition-duration: 0.4s;
+background-color: black;
+color: white;
+box-shadow: 5px 5px 5px #9e0000;
+width: 100%;
+max-width: 200px;
+max-height: 250px;
+}
+img{
+  text-align: center  
+}
+.caps{
+  text-transform: uppercase;
+  column-count: 1;
+  background-color: #000000;
+  display:grid;
+  margin: 3%;
+  padding: 5%;
+  border-radius: 15px;
+  box-shadow:#610000 0 0 22px 3px;
+}
+.caps_img{
+  background-color: #000000;
+  box-shadow:#610000 0 0 22px 3px;
+  padding: 5px;
+  border-radius: 15px;
+  column-count: 2;
+}
+section{
+  display: grid;
+  grid-template-columns: 23% 1fr;
+  padding: 1%;
+}
+p{
+  color: white;
+  font-family: cursive;
+  font-size: 17px;
+}
+img{
+  margin: 10px;
+  border-style: solid;
+  border-bottom: 5px;
+  border-radius: 50px;
+  box-shadow: 5px 5px 5px #9e0000;  
+}
